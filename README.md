@@ -1,7 +1,5 @@
-# Transport Tracker (Android)
+# transport-tracker-web
 Transport Tracker is an Android app which also has an admin website to manage the transports. It is developed using Android Studio & PhpStrom.
-
-
 
 ### Features:
 *	RealTime location update from the Android app.
@@ -19,3 +17,7 @@ Transport Tracker is an Android app which also has an admin website to manage th
 *	Google Map API
 *	RealTime Chat
 
+### Screenshots:
+Overview              |      Selected Vehicle                |        Chat 
+:-------------------------:|:-------------------------:|:-------------------------:
+![img](https://image.ibb.co/b7vHbJ/s1.jpg) | ![img](https://image.ibb.co/j305Vd/s2.jpg) | ![img](https://image.ibb.co/ngFTiy/s3.jpg) 
